@@ -1,0 +1,73 @@
+P54.0,"Neonatal haematemesis P54.1 Neonatal melaena P54.2 Neonatal rectal haemorrhage P54.3 Other neonatal gastrointestinal haemorrhage P54.4 Neonatal adrenal haemorrhage P54.5 Neonatal cutaneous haemorrhage P54.6 Neonatal vaginal haemorrhage P54.8 Other specified neonatal haemorrhages P54.9 Neonatal haemorrhage, unspecified"
+P50,"Fetal blood loss P51 Umbilical haemorrhage of newborn P52 Intracranial nontraumatic haemorrhage of fetus and newborn P53 Haemorrhagic disease of fetus and newborn P54 Other neonatal haemorrhages P54.0 Neonatal haematemesis P54.1 Neonatal melaena P54.2 Neonatal rectal haemorrhage P54.3 Other neonatal gastrointestinal haemorrhage P54.4 Neonatal adrenal haemorrhage P54.5 Neonatal cutaneous haemorrhage P54.6 Neonatal vaginal haemorrhage P54.8 Other specified neonatal haemorrhages P54.9 Neonatal haemorrhage, unspecified P55 Haemolytic disease of fetus and newborn P56 Hydrops fetalis due to haemolytic disease P57 Kernicterus P58 Neonatal jaundice due to other excessive haemolysis P59 Neonatal jaundice from other and unspecified causes P60 Disseminated intravascular coagulation of fetus and newborn P61 Other perinatal haematological disorders"
+P50.0,Fetal blood loss from vasa praevia
+P50.1,Fetal blood loss from ruptured cord
+P50.2,Fetal blood loss from placenta
+P50.3,Haemorrhage into co-twin
+P50.4,Haemorrhage into maternal circulation
+P50.5,Fetal blood loss from cut end of co-twin's cord
+P50.8,Other fetal blood loss
+P50.9,"Fetal blood loss, unspecified Incl.: Fetal haemorrhage NOS"
+P51,Umbilical haemorrhage of newborn Excl.: omphalitis with mild haemorrhage (P38)
+P51.0,Massive umbilical haemorrhage of newborn
+P51.8,Other umbilical haemorrhages of newborn Incl.: Slipped umbilical ligature NOS
+P51.9,"Umbilical haemorrhage of newborn, unspecified"
+P52,Intracranial nontraumatic haemorrhage of fetus and newborn Incl.: intracranial haemorrhage due to anoxia or hypoxia Excl.: intracranial haemorrhage due to injury: birth (P10.-) maternal (P00.5) other (S06.-)
+P52.0,"Intraventricular (nontraumatic) haemorrhage, grade 1, of fetus and newborn Incl.: Subependymal haemorrhage (without intraventricular extension)"
+P52.1,"Intraventricular (nontraumatic) haemorrhage, grade 2, of fetus and newborn Incl.: Subependymal haemorrhage with intraventricular extension"
+P52.2,"Intraventricular (nontraumatic) haemorrhage, grade 3, and grade 4 of fetus and newborn Incl.: Subependymal haemorrhage with both intraventricular and intracerebral extension"
+P52.3,Unspecified intraventricular (nontraumatic) haemorrhage of fetus and newborn
+P52.4,Intracerebral (nontraumatic) haemorrhage of fetus and newborn
+P52.5,Subarachnoid (nontraumatic) haemorrhage of fetus and newborn
+P52.6,Cerebellar (nontraumatic) and posterior fossa haemorrhage of fetus and newborn
+P52.8,Other intracranial (nontraumatic) haemorrhages of fetus and newborn
+P52.9,"Intracranial (nontraumatic) haemorrhage of fetus and newborn, unspecified"
+P53,Haemorrhagic disease of fetus and newborn Incl.: Vitamin K deficiency of newborn
+P54,"Other neonatal haemorrhages P54.0 Neonatal haematemesis P54.1 Neonatal melaena P54.2 Neonatal rectal haemorrhage P54.3 Other neonatal gastrointestinal haemorrhage P54.4 Neonatal adrenal haemorrhage P54.5 Neonatal cutaneous haemorrhage P54.6 Neonatal vaginal haemorrhage P54.8 Other specified neonatal haemorrhages P54.9 Neonatal haemorrhage, unspecified"
+P54.1,Neonatal melaena Excl.: that due to swallowed maternal blood (P78.2)
+P54.2,Neonatal rectal haemorrhage
+P54.3,Other neonatal gastrointestinal haemorrhage
+P54.4,Neonatal adrenal haemorrhage
+P54.5,Neonatal cutaneous haemorrhage Incl.: Bruising Ecchymoses Petechiae Superficial haematomata in fetus or newborn Excl.: bruising of scalp due to birth injury (P12.3) cephalhaematoma due to birth injury (P12.0)
+P54.6,Neonatal vaginal haemorrhage Incl.: Pseudomenses
+P54.8,Other specified neonatal haemorrhages
+P54.9,"Neonatal haemorrhage, unspecified"
+P55,Haemolytic disease of fetus and newborn
+P55.0,Rh isoimmunization of fetus and newborn
+P55.1,ABO isoimmunization of fetus and newborn
+P55.8,Other haemolytic diseases of fetus and newborn
+P55.9,"Haemolytic disease of fetus and newborn, unspecified"
+P56,Hydrops fetalis due to haemolytic disease Excl.: hydrops fetalis NOS (P83.2) hydrops fetalis NOS not due to haemolytic disease (P83.2)
+P56.0,Hydrops fetalis due to isoimmunization
+P56.9,Hydrops fetalis due to other and unspecified haemolytic disease
+P57,Kernicterus
+P57.0,Kernicterus due to isoimmunization
+P57.8,Other specified kernicterus Excl.: Crigler-Najjar syndrome (E80.5)
+P57.9,"Kernicterus, unspecified"
+P58,Neonatal jaundice due to other excessive haemolysis Excl.: jaundice due to isoimmunization (P55-P57)
+P58.0,Neonatal jaundice due to bruising
+P58.1,Neonatal jaundice due to bleeding
+P58.2,Neonatal jaundice due to infection
+P58.3,Neonatal jaundice due to polycythaemia
+P58.4,"Neonatal jaundice due to drugs or toxins transmitted from mother or given to newborn Coding-Hint Use additional external cause code (Chapter XX), if desired, to identify drug, if drug-induced."
+P58.5,Neonatal jaundice due to swallowed maternal blood
+P58.8,Neonatal jaundice due to other specified excessive haemolysis
+P58.9,"Neonatal jaundice due to excessive haemolysis, unspecified"
+P59,Neonatal jaundice from other and unspecified causes Excl.: due to inborn errors of metabolism (E70-E90) kernicterus (P57.-)
+P59.0,Neonatal jaundice associated with preterm delivery Incl.: Hyperbilirubinaemia of prematurity Jaundice due to delayed conjugation associated with preterm delivery
+P59.1,Inspissated bile syndrome
+P59.2,Neonatal jaundice from other and unspecified hepatocellular damage Incl.: Fetal or neonatal giant cell hepatitis Fetal or neonatal (idiopathic) hepatitis Excl.: congenital viral hepatitis (P35.3)
+P59.3,Neonatal jaundice from breast milk inhibitor
+P59.8,Neonatal jaundice from other specified causes
+P59.9,"Neonatal jaundice, unspecified Incl.: Physiological jaundice (intense)(prolonged) NOS"
+P60,Disseminated intravascular coagulation of fetus and newborn Incl.: Defibrination syndrome of fetus or newborn
+P61,Other perinatal haematological disorders Excl.: transient hypogammaglobulinaemia of infancy (D80.7)
+P61.0,Transient neonatal thrombocytopenia Incl.: Neonatal thrombocytopenia due to: exchange transfusion idiopathic maternal thrombocytopenia isoimmunization
+P61.1,Polycythaemia neonatorum
+P61.2,Anaemia of prematurity
+P61.3,Congenital anaemia from fetal blood loss
+P61.4,"Other congenital anaemias, not elsewhere classified Incl.: Congenital anaemia NOS"
+P61.5,Transient neonatal neutropenia
+P61.6,Other transient neonatal disorders of coagulation
+P61.8,Other specified perinatal haematological disorders
+P61.9,"Perinatal haematological disorder, unspecified"

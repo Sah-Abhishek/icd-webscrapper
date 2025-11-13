@@ -1,0 +1,7 @@
+https://icd.who.int/browse10/2019/en#/A00-A09
+https://icd.who.int/browse10/2019/en#/A15-A19
+https://icd.who.int/browse10/2019/en#/A20-A28
+https://icd.who.int/browse10/2019/en#/A30-A49
+https://icd.who.int/browse10/2019/en#/A50-A64
+https://icd.who.int/browse10/2019/en#/A65-A69
+https://icd.who.int/browse10/2019/en#/A70-A74

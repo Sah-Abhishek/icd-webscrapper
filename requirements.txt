@@ -1,0 +1,18 @@
+# Core scraping libraries
+playwright>=1.40.0
+selenium>=4.15.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# For async operations
+asyncio>=3.4.3
+
+# HTML parsing
+lxml>=4.9.0
+
+# CSV handling (built-in, but listing for completeness)
+# csv - standard library
+
+# Optional but recommended
+# For better performance
+aiohttp>=3.9.0

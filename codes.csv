@@ -1,0 +1,67 @@
+A00,"Cholera A01 Typhoid and paratyphoid fevers A02 Other salmonella infections A03 Shigellosis A04 Other bacterial intestinal infections A05 Other bacterial foodborne intoxications, not elsewhere classified A06 Amoebiasis A07 Other protozoal intestinal diseases A08 Viral and other specified intestinal infections A09 Other gastroenteritis and colitis of infectious and unspecified origin"
+A00.0,"Cholera due to Vibrio cholerae 01, biovar cholerae Incl.: Classical cholera"
+A00.1,"Cholera due to Vibrio cholerae 01, biovar eltor Incl.: Cholera eltor"
+A00.9,"Cholera, unspecified"
+A01,Typhoid and paratyphoid fevers
+A01.0,Typhoid fever Incl.: Infection due to Salmonella typhi
+A01.1,Paratyphoid fever A
+A01.2,Paratyphoid fever B
+A01.3,Paratyphoid fever C
+A01.4,"Paratyphoid fever, unspecified Incl.: Infection due to Salmonella paratyphi NOS"
+A02,Other salmonella infections Incl.: infection or foodborne intoxication due to any Salmonella species other than S. typhi and S. paratyphi
+A02.0,Salmonella enteritis Incl.: Salmonellosis
+A02.1,Salmonella sepsis
+A02.2,Localized salmonella infections Incl.: Salmonella: arthritis† (M01.3*) meningitis† (G01*) osteomyelitis† (M90.2*) pneumonia† (J17.0*) renal tubulo-interstitial disease† (N16.0*)
+A02.8,Other specified salmonella infections
+A02.9,"Salmonella infection, unspecified"
+A03,Shigellosis
+A03.0,Shigellosis due to Shigella dysenteriae Incl.: Group A shigellosis [Shiga-Kruse dysentery]
+A03.1,Shigellosis due to Shigella flexneri Incl.: Group B shigellosis
+A03.2,Shigellosis due to Shigella boydii Incl.: Group C shigellosis
+A03.3,Shigellosis due to Shigella sonnei Incl.: Group D shigellosis
+A03.8,Other shigellosis
+A03.9,"Shigellosis, unspecified Incl.: Bacillary dysentery NOS"
+A04,Other bacterial intestinal infections Excl.: foodborne intoxications elsewhere classified tuberculous enteritis (A18.3)
+A04.0,Enteropathogenic Escherichia coli infection
+A04.1,Enterotoxigenic Escherichia coli infection
+A04.2,Enteroinvasive Escherichia coli infection
+A04.3,Enterohaemorrhagic Escherichia coli infection
+A04.4,Other intestinal Escherichia coli infections Incl.: Escherichia coli enteritis NOS
+A04.5,Campylobacter enteritis
+A04.6,Enteritis due to Yersinia enterocolitica Excl.: extraintestinal yersiniosis (A28.2)
+A04.7,Enterocolitis due to Clostridium difficile Incl.: Foodborne intoxication by Clostridium difficile Pseudomembranous colitis
+A04.8,Other specified bacterial intestinal infections
+A04.9,"Bacterial intestinal infection, unspecified Incl.: Bacterial enteritis NOS"
+A05,"Other bacterial foodborne intoxications, not elsewhere classified Excl.: Clostridium difficile foodborne intoxication and infection (A04.7) Escherichia coli infection (A04.0-A04.4) listeriosis (A32.-) salmonella foodborne intoxication and infection (A02.-) toxic effect of noxious foodstuffs (T61-T62)"
+A05.0,Foodborne staphylococcal intoxication
+A05.1,Botulism Incl.: Classical foodborne intoxication due to Clostridium botulinum
+A05.2,Foodborne Clostridium perfringens [Clostridium welchii] intoxication Incl.: Enteritis necroticans Pig-bel
+A05.3,Foodborne Vibrio parahaemolyticus intoxication
+A05.4,Foodborne Bacillus cereus intoxication
+A05.8,Other specified bacterial foodborne intoxications
+A05.9,"Bacterial foodborne intoxication, unspecified"
+A06,Amoebiasis Incl.: infection due to Entamoeba histolytica Excl.: other protozoal intestinal diseases (A07.-)
+A06.0,Acute amoebic dysentery Incl.: Acute amoebiasis Intestinal amoebiasis NOS
+A06.1,Chronic intestinal amoebiasis
+A06.2,Amoebic nondysenteric colitis
+A06.3,Amoeboma of intestine Incl.: Amoeboma NOS
+A06.7,Cutaneous amoebiasis
+A06.8,Amoebic infection of other sites Incl.: Amoebic: appendicitis balanitis† (N51.2*)
+A06.9,"Amoebiasis, unspecified"
+A07,Other protozoal intestinal diseases
+A07.0,Balantidiasis Incl.: Balantidial dysentery
+A07.1,Giardiasis [lambliasis]
+A07.2,Cryptosporidiosis
+A07.3,Isosporiasis Incl.: Infection due to Isospora belli and Isospora hominis Intestinal coccidiosis Isosporosis
+A07.8,Other specified protozoal intestinal diseases Incl.: Intestinal trichomoniasis Sarcocystosis Sarcosporidiosis
+A07.9,"Protozoal intestinal disease, unspecified Incl.: Flagellate diarrhoea Protozoal: colitis diarrhoea dysentery"
+A08,"Viral and other specified intestinal infections Excl.: influenza with involvement of gastrointestinal tract (J09, J10.8, J11.8)"
+A08.0,Rotaviral enteritis
+A08.1,Acute gastroenteropathy due to Norovirus Incl.: Noroviral enteritis Small round structured virus enteritis
+A08.2,Adenoviral enteritis
+A08.3,Other viral enteritis
+A08.4,"Viral intestinal infection, unspecified Incl.: Viral: enteritis NOS gastroenteritis NOS gastroenteropathy NOS"
+A08.5,Other specified intestinal infections
+A09,"Other gastroenteritis and colitis of infectious and unspecified origin Excl.: due to bacterial, protozoal, viral and other specified infectious agents (A00-A08) noninfective (see noninfectious) diarrhoea (K52.9) noninfective (see noninfectious) diarrhoea neonatal (P78.3)"
+A09.0,"Other and unspecified gastroenteritis and colitis of infectious origin Incl.: Catarrh, enteric or intestinal Diarrhoea: acute bloody acute haemorrhagic acute watery dysenteric epidemic Infectious or septic colitis enteritis gastroenteritis NOS haemorrhagic Infectious (neonatal) diarrhoea NOS"
+A09.9,Gastroenteritis and colitis of unspecified origin Incl.: Neonatal diarrhoea NOS Excl.: indeterminate colitis (K52.3)
